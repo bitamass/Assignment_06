@@ -1,0 +1,11 @@
+1, American Girl ,  Tom Petty and the Heartbreakers
+2, 1969,  The Stooges
+3, Stay With Me ,  The Faces
+4, Whole Lotta Love ,  Led Zeppelin
+5, Honky Tonk Women ,  Rolling Stones
+6, Hotel California ,  Eagles
+7, Free Bird ,  Lynyrd Skynyrd
+8, Take the Money and Run ,  Steve Miller Band
+9, Bohemian Rhapsody ,  Queen
+10, Smoke on the Water ,  Deep Purple
+11,Stairway to Heaven,Led Zepelin
